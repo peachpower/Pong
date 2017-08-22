@@ -5,7 +5,7 @@ Currently in progress to recreating this project.
 
 <h2> Process:</h2>
 
-<p1>  a) Read and Understand the code. </p1>
+<p1><br> a) Read and Understand the code. </p1></br>
 <p2> b) Recreate and rewrite what I understood from scratch. </p2>
   c) Train the neural network, may take around 3 days or more based on the value set for the hyperparameters
 <p1>
