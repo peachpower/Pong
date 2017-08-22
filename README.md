@@ -3,7 +3,7 @@ Using reinforcement learning to teach agent to win at Pong
 
 Currently in progress to recreating this project.
 
-Process:
+<h2> Process:</h2>
   a) Read and Understand the code.
   b) Recreate and rewrite what I understood from scratch. 
   c) Train the neural network, may take around 3 days or more based on the value set for the hyperparameters
