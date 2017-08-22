@@ -15,7 +15,7 @@ Currently in progress to recreating this project.
 <h3> References: </h3>
 <p1>
 <br>http://karpathy.github.io/2016/05/31/rl/</br>
-http://neuralnetworksanddeeplearning.com/
-http://ruder.io/optimizing-gradient-descent/index.html#rmsprop
-https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0
+<br>http://neuralnetworksanddeeplearning.com/</br>
+<br>http://ruder.io/optimizing-gradient-descent/index.html#rmsprop</br>
+<br>https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0</br>
 </p1>
