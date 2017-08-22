@@ -5,11 +5,11 @@ Currently in progress to recreating this project.
 
 <h2> Process:</h2>
 <p1>
-  a) Read and Understand the code.
+<p1>  a) Read and Understand the code. </p1>
   b) Recreate and rewrite what I understood from scratch. 
   c) Train the neural network, may take around 3 days or more based on the value set for the hyperparameters
 </p1>
-
+<p1>
 <p1>
  V1 - All comments belong to me and reflect my understand, and I updated the 3 image processing functions into one.  
 </p1>
